@@ -9,6 +9,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 6 months ago
 
 add readme
+
 </p>
 
 <p align="center">
@@ -25,7 +26,7 @@ add readme
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,11 +45,13 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 6 months ago
 
 Update links
+
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
 6 months ago
 
 add readme
+
 ## 🔖 Layout
 
 6 months ago
